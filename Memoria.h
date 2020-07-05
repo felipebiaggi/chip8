@@ -21,7 +21,7 @@ public:
 public:
     void escrever (uint16_t addr, uint8_t data);
     uint8_t ler (uint16_t addr);
-
+    bool load(const char *file_path);
 };
 
 
