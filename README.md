@@ -1,6 +1,6 @@
 # chip8
 
-Emulador chip8 simples
+Emulador chip8
 
 Referencias:
 https://github.com/JamesGriffin/CHIP-8-Emulator
